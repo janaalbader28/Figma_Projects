@@ -20,6 +20,8 @@ A mobile application linked to a smart cup that helps users accurately track the
 
 ## 2. **Ecovision** 
 
+![Ecovision Logo](logos/Ecovision.png)
+
 A mobile application for controlling and monitoring smart bins via Bluetooth.  
 ### Features:  
 - **Smart Bin Monitoring**: Notifies users when the bin is full and tracks garbage collection schedules.  
