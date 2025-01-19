@@ -1,7 +1,6 @@
 # Figma_Projects
 
-Welcome to my GitHub projects repository! Below are descriptions and links to my key projects:
-
+Welcome to my GitHub repository dedicated to my Figma projects. Below, you will find the descriptions and links to my key projects
 ---
 
 ## 1. **رفيق (Rafiq)** 
