@@ -5,7 +5,7 @@ Welcome to my GitHub projects repository! Below are descriptions and links to my
 ---
 
 ## 1. **رفيق (Rafiq)** 
-![Ecovision Logo](logos/رفيق.png)
+![rafiq Logo](logos/ رفيق 2.png)
 
 A mobile application linked to a smart cup that helps users accurately track their fluid intake.  
 ### Features:  
