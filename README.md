@@ -5,7 +5,7 @@ Welcome to my GitHub projects repository! Below are descriptions and links to my
 ---
 
 ## 1. **رفيق (Rafiq)** 
-![Rafiq Logo](logos/رفيق.png) 
+![Rafiq Logo](logos/2رفيق.) 
 
 A mobile application linked to a smart cup that helps users accurately track their fluid intake.  
 ### Features:  
