@@ -22,8 +22,8 @@ A mobile application linked to a smart cup that helps users accurately track the
 ## 2. **Ecovision** 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="logos/Ecovision.png" alt="Rafiq Logo" />
-  <img src="logos/Ecovision2.png" alt="Ecovision Logo" />
+  <img src="logos/Ecovision.png" alt="Ecovision Logo" width="400" high="500"/>
+  <img src="logos/Ecovision2.png" alt="Ecovision2 Logo" width="400" high="500" />
 </div>
 
 A mobile application for controlling and monitoring smart bins via Bluetooth.  
