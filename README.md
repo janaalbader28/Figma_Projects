@@ -4,7 +4,9 @@ Welcome to my GitHub projects repository! Below are descriptions and links to my
 
 ---
 
-## 1. **رفيق (Rafiq)**  
+## 1. **رفيق (Rafiq)** 
+![Ecovision Logo](logos/رفيق.png)
+
 A mobile application linked to a smart cup that helps users accurately track their fluid intake.  
 ### Features:  
 - **Smart Tracking**: Automatically calculates fluid consumption via Bluetooth or manual entry, retaining data during disconnection.  
