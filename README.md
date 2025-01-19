@@ -5,7 +5,6 @@ Welcome to my GitHub projects repository! Below are descriptions and links to my
 ---
 
 ## 1. **رفيق (Rafiq)** 
-![rafiq Logo](logos/ رفيق 2.png)
 
 A mobile application linked to a smart cup that helps users accurately track their fluid intake.  
 ### Features:  
@@ -19,7 +18,9 @@ A mobile application linked to a smart cup that helps users accurately track the
 
 ---
 
-## 2. **Ecovision**  
+## 2. **Ecovision** 
+![Ecovision Logo](logos/Ecovision.png)
+
 A mobile application for controlling and monitoring smart bins via Bluetooth.  
 ### Features:  
 - **Smart Bin Monitoring**: Notifies users when the bin is full and tracks garbage collection schedules.  
