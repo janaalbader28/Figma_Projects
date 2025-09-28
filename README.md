@@ -16,6 +16,7 @@ A mobile application linked to a smart cup that helps users accurately track the
 ### Link to Project:  
 [رفيق GitHub Repository](https://www.figma.com/proto/jfZ56tgUJ0hzpunKZUb2fs/%D8%B1%D9%81%D9%8A%D9%82?node-id=0-1&t=sHshDDkcjODUkEDy-1)
 
+[prototype] (https://www.figma.com/design/jfZ56tgUJ0hzpunKZUb2fs/%D8%B1%D9%81%D9%8A%D9%82?node-id=0-1&p=f&t=dqLDr5wPNGePn7FY-0) 
 ---
 
 ## 2. **Ecovision** 
