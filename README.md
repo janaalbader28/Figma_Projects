@@ -14,7 +14,7 @@ A mobile application linked to a smart cup that helps users accurately track the
 - **Health Improvement**: Provides recommendations for nutrient intake and sends alerts when limits are exceeded.  
 
 ### Link to Project:  
-[رفيق ](https://www.figma.com/design/jfZ56tgUJ0hzpunKZUb2fs/%D8%B1%D9%81%D9%8A%D9%82?node-id=0-1&p=f&t=dqLDr5wPNGePn7FY-0)
+[رفيق ](https://www.figma.com/design/jfZ56tgUJ0hzpunKZUb2fs/%D8%B1%D9%81%D9%8A%D9%82?node-id=0-1&t=dqLDr5wPNGePn7FY-1)
 ---
 
 ## 2. **Ecovision** 
@@ -28,7 +28,7 @@ A mobile application for controlling and monitoring smart bins via Bluetooth.
 - **Rewards System**: Users earn points and receive notifications for sustainable waste management practices.  
 
 ### Link to Project:  
-[Ecovision GitHub Repository](https://www.figma.com/proto/LWwfOQDyJeMBU6cDkjlNRD/Ecovision?node-id=116-717&t=2Ecqbg9Rv0h7bdfI-1)
+[Ecovision](https://www.figma.com/design/LWwfOQDyJeMBU6cDkjlNRD/Ecovision?node-id=1-4&t=Oy11oHTuG90mKEOg-1)
 
 ---
 
